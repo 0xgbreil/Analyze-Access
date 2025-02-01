@@ -1,6 +1,7 @@
-# analyze-access
+## Analyze-Access
 
-`analyze-access` is a powerful and efficient Bash script designed to analyze Apache `access.log` files. The tool extracts and displays useful information from the logs, including IP addresses, requests, user agents, and referrers. It also offers a "Top N" feature that allows you to view the most frequent results, making it ideal for analyzing traffic patterns and identifying potential security risks or trends.
+`Analyze-Access` is a powerful and efficient Bash script designed to analyze Apache `access.log` files. The tool extracts and displays useful information from the logs, including IP addresses, requests, user agents, and referrers. Whether you're a system administrator, security analyst, or web developer, Analyze-Access helps you quickly identify trends, track visitors, and detect potential issues in your Apache server logs.
+
 
 ## Features
 
@@ -8,7 +9,6 @@
 - **Request Analysis**: Displays and counts unique HTTP requests.
 - **User Agent Analysis**: Identifies and counts different user agents accessing the server.
 - **Referrer Analysis**: Displays and counts referrers to track the origin of traffic.
-- **Top N**: Allows users to specify the number of top results they wish to display for each category (e.g., Top 10 IPs, Top 5 requests).
 
 ## Installation
 
