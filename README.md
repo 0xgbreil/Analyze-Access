@@ -6,14 +6,17 @@ Analyze-Access is a powerful and efficient Bash script designed to analyze Apach
 ![Analyze Access Screenshot 4](images/analyze-access8.png)
 
 
-## Features
+# Features
 
 - **IP Analysis**: Counts and displays unique IP addresses in the log file.
+- 
 - **Request Analysis**: Displays and counts unique HTTP requests.
+- 
 - **User Agent Analysis**: Identifies and counts different user agents accessing the server.
+- 
 - **Referrer Analysis**: Displays and counts referrers to track the origin of traffic.
 
-## Installation
+# Installation
 
 To get started with `analyze-access`, follow these steps:
 
