@@ -2,20 +2,8 @@
 
 Analyze-Access is a powerful and efficient Bash script designed to analyze Apache access.log files. The tool extracts and displays useful information from the logs, including IP addresses, requests, user agents, and referrers. Whether you're a system administrator, security analyst, or web developer, Analyze-Access helps you quickly identify trends, track visitors, and detect potential issues in your Apache server logs.
 
-### Analyze Access Screenshots
 
-
-Analyze Access Screenshot 1
-![Analyze Access Screenshot 1](images/analyze-access.png) 
-
-
-Analyze Access Screenshot 2
-
-![Analyze Access Screenshot 2](images/analyze-access2.png)
-
-Analyze Access Screenshot 3
-
-![Analyze Access Screenshot 4](images/analyze-access4.png)
+![Analyze Access Screenshot 4](images/analyze-access8.png)
 
 
 ## Features
