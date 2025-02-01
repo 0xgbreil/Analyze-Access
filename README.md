@@ -31,5 +31,8 @@ Make sure you have the following installed on your system:
 Clone the repository to your local machine using Git:
 
 ```bash
-https://github.com/0xgbreil/Analyze-Access.git
-cd analyze-access
+git clone https://github.com/0xgbreil/Analyze-Access.git
+cd Analyze-Access
+chmod +x analyze-access.sh
+./analyze-access.sh
+````
