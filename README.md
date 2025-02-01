@@ -1,6 +1,10 @@
 # Analyze-Access
 
 Analyze-Access is a powerful and efficient Bash script designed to analyze Apache access.log files. The tool extracts and displays useful information from the logs, including IP addresses, requests, user agents, and referrers. Whether you're a system administrator, security analyst, or web developer, Analyze-Access helps you quickly identify trends, track visitors, and detect potential issues in your Apache server logs.
+![Analyze Access Screenshot 1](images/analyze-access.png)
+![Analyze Access Screenshot 2](images/analyze-access2.png)
+![Analyze Access Screenshot 3](images/analyze-access3.png)
+![Analyze Access Screenshot 4](images/analyze-access4.png)
 
 
 ## Features
@@ -25,5 +29,5 @@ Make sure you have the following installed on your system:
 Clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/username/analyze-access.git
+https://github.com/0xgbreil/Analyze-Access.git
 cd analyze-access
