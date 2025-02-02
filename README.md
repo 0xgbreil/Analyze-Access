@@ -6,38 +6,49 @@ Analyze-Access is a powerful and efficient Bash script designed to analyze Apach
 ![Analyze Access Screenshot 4](images/analyze-access8.png)
 
 
-# 🚀 Features
+## 🚀 Features
 
-📊 Display and count unique IP addresses
+- 📊 **Display and count unique IP addresses**: Identify unique visitors and their frequency.  
+- 🔍 **Analyze request types and methods**: Understand the types of requests being made (GET, POST, etc.).  
+- 🖥️ **Identify and count User-Agents**: Detect the browsers and devices accessing your server.  
+- 🌍 **Extract and analyze referrer sources**: Track where your traffic is coming from.  
+- 🎨 **Color-coded output**: Enhanced readability with color-coded terminal output.  
+- 🔄 **Interactive menu-driven interface**: Easy-to-use interface for seamless navigation.  
 
-🔍 Analyze request types and methods
 
-🖥️ Identify and count User-Agents
+## 📥 Installation
 
-🌍 Extract and analyze referrer sources
-
-🎨 Color-coded output for better readability
-
-🏆 Top N feature for sorting most frequent results
-
-🔄 Interactive menu-driven interface
-# Installation
-
-To get started with `analyze-access`, follow these steps:
+To get started with **Analyze-Access**, follow these steps:
 
 ### Prerequisites
-
 Make sure you have the following installed on your system:
-- **Bash** (typically pre-installed on most Linux systems)
-- **Access to an Apache `access.log` file** to analyze
 
-### Step 1: Clone the repository
+- 🖥️ **Bash** (typically pre-installed on most Linux systems)  
+- 📂 **Access to an Apache `access.log` file** to analyze  
 
-Clone the repository to your local machine using Git:
+### Step-by-Step Installation
 
-```bash
-git clone https://github.com/0xgbreil/Analyze-Access.git
-cd Analyze-Access
-chmod +x analyze-access.sh
-./analyze-access.sh
-````
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/0xgbreil/Analyze-Access.git
+   ```
+2. **🔧 Navigate to the project directory:**
+   ```bash
+   cd Analyze-Access
+   ```
+3. **🛠 Make the script executable:**
+   ```bash
+   chmod +x analyze-access.sh
+   ```
+
+4. **🚀 Run the script:**
+   ```bash
+   ./analyze-access.sh
+   ```
+
+
+
+
+ 
+  
+طدد
