@@ -55,7 +55,7 @@ After running the script, you will be presented with an interactive menu. Here's
 2. View the results directly in your terminal.
 
 3. Export the results (if supported) for further analysis.
-
+```bash
 Example:
 
 Enter the path to access.log: /var/log/apache2/access.log
@@ -75,8 +75,8 @@ File exists. Proceeding...
 
 99) Exit
 
-Enter the number: 3
-
+Enter the number: 
+```
 
  
 
