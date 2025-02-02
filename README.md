@@ -81,12 +81,39 @@ File exists. Proceeding...
 
 Enter the number: 
 ```
+You will see an interactive menu with the following options:
+
+1. **Show unique IP addresses**: Displays a list of unique IP addresses and their counts.
+
+2. **Analyze request methods**: Shows the distribution of HTTP request methods (GET, POST, etc.).
+
+3. **Identify User-Agents**: Lists the User-Agents and their frequencies.
+
+4. **Extract referrer sources**: Displays the referrer URLs and their counts.
+
+5. **Exit**: Exits the script.
+
 
 ## 🙏 Acknowledgments
 
 - Special thanks to the open-source community for inspiration and support.
 
 - This tool was developed to simplify Apache log analysis for system administrators and developers.
+
+
+
+## 📧 Contact
+
+For questions or feedback, feel free to reach out:
+
+- **Author**: Mohammed Gbreil
+
+- **LinkedIn**: https://www.linkedin.com/in/0xgbreil/
+
+- **GitHub**: 0xgbreil
+
+  
+
 
  
 
