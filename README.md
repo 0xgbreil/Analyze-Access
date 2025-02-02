@@ -8,11 +8,16 @@ Analyze-Access is a powerful and efficient Bash script designed to analyze Apach
 
 ## 🚀 Features
 
-- 📊 **Display and count unique IP addresses**: Identify unique visitors and their frequency.  
-- 🔍 **Analyze request types and methods**: Understand the types of requests being made (GET, POST, etc.).  
-- 🖥️ **Identify and count User-Agents**: Detect the browsers and devices accessing your server.  
-- 🌍 **Extract and analyze referrer sources**: Track where your traffic is coming from.  
-- 🎨 **Color-coded output**: Enhanced readability with color-coded terminal output.  
+- 📊 **Display and count unique IP addresses**: Identify unique visitors and their frequency.
+    
+- 🔍 **Analyze request types and methods**: Understand the types of requests being made (GET, POST, etc.).
+  
+- 🖥️ **Identify and count User-Agents**: Detect the browsers and devices accessing your server.
+  
+- 🌍 **Extract and analyze referrer sources**: Track where your traffic is coming from.
+
+- 🎨 **Color-coded output**: Enhanced readability with color-coded terminal output.
+  
 - 🔄 **Interactive menu-driven interface**: Easy-to-use interface for seamless navigation.  
 
 
@@ -46,7 +51,7 @@ Make sure you have the following installed on your system:
    ./analyze-access.sh
    ```
 
-# 🛠 Usage
+## 🛠 Usage
 
 After running the script, you will be presented with an interactive menu. Here's how to use it:
 
@@ -77,9 +82,10 @@ File exists. Proceeding...
 Enter the number: 
 ```
 
-# 🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 - Special thanks to the open-source community for inspiration and support.
+
 - This tool was developed to simplify Apache log analysis for system administrators and developers.
 
  
