@@ -54,7 +54,6 @@ After running the script, you will be presented with an interactive menu. Here's
 
 2. View the results directly in your terminal.
 
-3. Export the results (if supported) for further analysis.
 ```bash
 Example:
 
@@ -77,6 +76,11 @@ File exists. Proceeding...
 
 Enter the number: 
 ```
+
+# 🙏 Acknowledgments
+
+- Special thanks to the open-source community for inspiration and support.
+- This tool was developed to simplify Apache log analysis for system administrators and developers.
 
  
 
