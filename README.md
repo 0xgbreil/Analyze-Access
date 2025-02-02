@@ -46,7 +46,20 @@ Make sure you have the following installed on your system:
    ./analyze-access.sh
    ```
 
+# 🛠 Usage
 
+After running the script, you will be presented with an interactive menu. Here's how to use it:
+
+1. Select an option from the menu to analyze specific parts of the access.log file.
+2. View the results directly in your terminal.
+3. Export the results (if supported) for further analysis.
+
+Example:
+
+```bash
+./analyze-access.sh
+```
+ 
 
 
  
