@@ -51,14 +51,33 @@ Make sure you have the following installed on your system:
 After running the script, you will be presented with an interactive menu. Here's how to use it:
 
 1. Select an option from the menu to analyze specific parts of the access.log file.
+
 2. View the results directly in your terminal.
+
 3. Export the results (if supported) for further analysis.
 
 Example:
 
-```bash
-./analyze-access.sh
-```
+Enter the path to access.log: /var/log/apache2/access.log
+File exists. Proceeding...
+
+==========================================================================================
+
+1) Display and count IP addresses
+
+2) Display and count requests
+
+3) Display and count User Agents
+
+4) Display and count Referrers
+
+5) All
+
+99) Exit
+
+Enter the number: 3
+
+
  
 
 
