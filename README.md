@@ -111,13 +111,3 @@ For questions or feedback, feel free to reach out:
 - **LinkedIn**: https://www.linkedin.com/in/0xgbreil/
 
 - **GitHub**: 0xgbreil
-
-  
-
-
- 
-
-
- 
-  
-طدد
